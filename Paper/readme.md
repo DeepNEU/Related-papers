@@ -1,3 +1,6 @@
+ABSTRACT：
+
+
 Electric load forecasting has always been a key component of power grids. Many countries
 have opened up electricity markets and facilitated the participation of multiple agents, which create a
 competitive environment and reduce costs to consumers. In the electricity market, multi-step short-term load
